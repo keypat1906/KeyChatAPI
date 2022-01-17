@@ -1,0 +1,5 @@
+Django==2.2.24
+djangorestframework==3.11.2
+pytz==2017.3
+python-memcached==1.11.0
+django-rest-swagger==2.1.2
