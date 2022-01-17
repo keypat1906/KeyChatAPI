@@ -1,6 +1,4 @@
-# keyChat
-
-# Follow these steps to install the service KeyChat
+# KeyChat API
 
 
 Install virtualenv
